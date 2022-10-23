@@ -3,9 +3,9 @@
     "short_name": "엔트리",
     "description": "너와 나의 Dutkyo 앱.",
     "icons": [{
-      "src": "icon.jpg",
+      "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }],
     "start_url": "/index.html?utm_source=homescreen",
     "display": "standalone",
